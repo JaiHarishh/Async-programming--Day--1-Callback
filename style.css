@@ -6,12 +6,3 @@ div{
     color: blue;
     font-size: 100px;
 }
-
-div{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 450px;
-    color: blue;
-    font-size: 100px;
-}
